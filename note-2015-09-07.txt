@@ -3,3 +3,4 @@
 
 修改HOP自动上传富友基金行情文件
 --修改文件HopTeskServiceImpl.java
+--修改方法submitMarketFile 248行
