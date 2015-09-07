@@ -1,0 +1,5 @@
+修改富友扣款对账
+--修改文件CutFundFileManagerImpl.java
+
+修改HOP自动上传富友基金行情文件
+--修改文件HopTeskServiceImpl.java
